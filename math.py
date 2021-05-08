@@ -2,7 +2,7 @@
 def add(x,y):
   return x+y
   
-# For Bob to complete
+# For Bob (tean member) to complete
 def mult(x,y):
   return None
 
