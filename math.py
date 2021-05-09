@@ -6,5 +6,6 @@ def add(x,y):
   
 # For Bob (tean member) to complete
 def mult(x,y):
-  return None
+  return x*y
+
 
